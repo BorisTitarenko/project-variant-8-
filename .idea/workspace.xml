@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e955f6e-6fbf-4ab0-b6fe-2fcc6938bc12" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YLl3qephmBROa9zKKVrbcvcpRF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\course_java\studying\4\individualTask" />
+      <recent name="E:\course_java\studying\4\individualTask\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.E:/course_java/studying/4/individualTask/testng.xml">
+    <configuration name="E:/course_java/studying/4/individualTask/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="individualTask" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAnimal" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="individualTask" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestAnimal" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAnimalCollection.AnimalCollection_Fooled_ShouldDeserialize" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="individualTask" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestAnimalCollection" />
+      <option name="METHOD_NAME" value="AnimalCollection_Fooled_ShouldDeserialize" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAnimalCollection.AnimalCollection_Fooled_ShouldSerialize" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="individualTask" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestAnimalCollection" />
+      <option name="METHOD_NAME" value="AnimalCollection_Fooled_ShouldSerialize" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.E:/course_java/studying/4/individualTask/testng.xml" />
+        <item itemvalue="TestNG.TestAnimalCollection.AnimalCollection_Fooled_ShouldSerialize" />
+        <item itemvalue="TestNG.TestAnimalCollection.AnimalCollection_Fooled_ShouldDeserialize" />
+        <item itemvalue="TestNG.TestAnimal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e955f6e-6fbf-4ab0-b6fe-2fcc6938bc12" name="Default Changelist" comment="" />
+      <created>1582729558337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582729558337</updated>
+      <workItem from="1582729562676" duration="5981000" />
+      <workItem from="1582784383178" duration="4320000" />
+      <workItem from="1582788968331" duration="15000" />
+      <workItem from="1582794396654" duration="1206000" />
+      <workItem from="1582798319490" duration="2272000" />
+      <workItem from="1582886875208" duration="229000" />
+      <workItem from="1583250016929" duration="2839000" />
+      <workItem from="1583266075423" duration="6658000" />
+      <workItem from="1583310087408" duration="4855000" />
+      <workItem from="1583322677869" duration="2307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582729850194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1582729850194" />
+    <state x="478" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582730386907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1582730386907" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1583317551199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583317551199" />
+    <state width="1492" height="142" key="GridCell.Tab.0.bottom" timestamp="1583328026705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="126" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1583255576303" />
+    <state width="1492" height="142" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583328026705" />
+    <state width="1492" height="142" key="GridCell.Tab.0.center" timestamp="1583328026705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="126" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1583255576303" />
+    <state width="1492" height="142" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583328026705" />
+    <state width="1492" height="142" key="GridCell.Tab.0.left" timestamp="1583328026704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="126" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1583255576303" />
+    <state width="1492" height="142" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583328026704" />
+    <state width="1492" height="142" key="GridCell.Tab.0.right" timestamp="1583328026705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="126" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1583255576303" />
+    <state width="1492" height="142" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583328026705" />
+    <state width="1492" height="152" key="GridCell.Tab.1.bottom" timestamp="1582795603257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="152" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582795603257" />
+    <state width="1492" height="152" key="GridCell.Tab.1.center" timestamp="1582795603257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="152" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582795603257" />
+    <state width="1492" height="152" key="GridCell.Tab.1.left" timestamp="1582795603257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="152" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582795603257" />
+    <state width="1492" height="152" key="GridCell.Tab.1.right" timestamp="1582795603257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="152" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582795603257" />
+    <state x="279" y="58" key="SettingsEditor" timestamp="1582729891716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1582729891716" />
+    <state x="209" y="120" key="new project wizard" timestamp="1582887104737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="120" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1582887104737" />
+  </component>
+</project>

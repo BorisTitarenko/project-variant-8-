@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <parameter name="ANIMAL_INPUT_FILE" value="E:\\course_java\\studying\\4\\v8\\src\\test\\data\\animalInput.txt"/>
+    <parameter name="FISH_INPUT_FILE" value="E:\\course_java\\studying\\4\\v8\\src\\test\\data\\fishInput.txt"/>
+    <parameter name="EXPECTED_SERIALIZED_ANIMALS" value="data\\expectedSerializedAnimals.xml"/>
+    <parameter name="ACTUAL_SERIALIZED_ANIMALS" value="data\\actualSerializedAnimals.xml"/>
+    <parameter name="ANIMALS_TO_DESERIALIZE" value="E:\\course_java\\studying\\4\\v8\\src\\test\\data\\animalsToDeserialize.xml"/>
+
+
+    <test verbose="2" preserve-order="true" name="first">
+
+        <classes>
+            <class name="TestAnimal"></class>
+            <class name="TestAnimalCollection"></class>
+            <class name="TestFish"></class>
+        </classes>
+    </test>
+</suite>

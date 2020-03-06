@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="13.0.1" class="java.beans.XMLDecoder">
+ <object class="AnimalCollection" id="AnimalCollection0">
+  <void property="animals">
+   <void method="add">
+    <object class="Animal">
+     <void property="birthDate">
+      <object class="java.time.LocalDate" method="parse">
+       <string>2015-05-05</string>
+      </object>
+     </void>
+     <void property="color">
+      <string>orange</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Animal">
+     <void property="birthDate">
+      <object class="java.time.LocalDate" method="parse">
+       <string>2018-07-02</string>
+      </object>
+     </void>
+     <void property="color">
+      <string>blue</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Fish">
+     <void property="birthDate">
+      <object class="java.time.LocalDate" method="parse">
+       <string>2008-06-16</string>
+      </object>
+     </void>
+     <void property="color">
+      <string>Grey</string>
+     </void>
+     <void property="kind">
+      <object class="java.lang.Enum" id="FishKind0" method="valueOf">
+       <class>FishKind</class>
+       <string>SEA</string>
+      </object>
+     </void>
+     <void property="species">
+      <string>Shark</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Fish">
+     <void property="birthDate">
+      <object class="java.time.LocalDate" method="parse">
+       <string>1969-03-02</string>
+      </object>
+     </void>
+     <void property="color">
+      <string>Black</string>
+     </void>
+     <void property="kind">
+      <object idref="FishKind0"/>
+     </void>
+     <void property="species">
+      <string>Som</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Fish">
+     <void property="birthDate">
+      <object class="java.time.LocalDate" method="parse">
+       <string>2018-07-02</string>
+      </object>
+     </void>
+     <void property="color">
+      <string>orange</string>
+     </void>
+     <void property="kind">
+      <object idref="FishKind0"/>
+     </void>
+     <void property="species">
+      <string>Nemo</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,20 @@
+black
+1878 08 02
+som
+river
+red
+2010 12 20
+shark
+SEA
+green
+1953 10 03
+pike
+river
+silver
+2019 07 05
+hek
+sea
+silver
+2019 07 05
+hek
+sea
